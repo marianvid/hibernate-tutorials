@@ -21,7 +21,7 @@
         
         <property name="hibernate.id.new_generator_mappings">true</property>
         
-        <mapping class="org.marian.db.UserDetails"/>
+        <mapping class="org.marian.db.UserDetails1"/>
         
     </session-factory>
 </hibernate-configuration>
